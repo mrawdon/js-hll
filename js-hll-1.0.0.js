@@ -1027,3 +1027,5 @@ if(hll.util === undefined)
         };
     };
 })();
+
+module.exports=hll;
